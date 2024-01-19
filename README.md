@@ -3,7 +3,7 @@ Repo to experiment with RabbitMQ and golang
 
 ### Dependency
 ```bash
-go run github.com/rabbitmq/amqp091-go
+go get github.com/rabbitmq/amqp091-go
 ```
 
 ### Setup RabbitMQ server
